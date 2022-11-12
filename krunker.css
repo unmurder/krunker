@@ -1,0 +1,22 @@
+@import url("https://namekujilsds.github.io/css/Comple.css");
+
+/* Customize */
+:root {
+    /*LeaderBoard*/
+    --color1: #fff;
+    /*Weapon Shadows*/
+    --color2: aqua;
+    /*Why i add this...?*/
+    --color3: black;
+    /*timer color*/
+    --time  : #8194ff;
+    /*ammo color*/
+    --ammoC : #fff;
+    /*Health color*/
+    --hpC   : #fff;
+    /*reload bar color*/
+    --relc1 : #95ff4b;
+    --relc2 : #53f0ff;
+    /*[R]Reloading color*/
+    --relmsg: pink;
+}
